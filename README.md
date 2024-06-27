@@ -1,6 +1,6 @@
 # EuroMillionProbs
 
-Sample numbers for 5 balls and 2 stars using probability distributions made from historical data that can be found (here)[https://www.fdj.fr/jeux-de-tirage/euromillions-my-million/historique]
+Sample numbers for 5 balls and 2 stars using probability distributions made from historical data that can be found [here](https://www.fdj.fr/jeux-de-tirage/euromillions-my-million/historique)
 
 Installation:
 ```bat
